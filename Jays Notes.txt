@@ -9,3 +9,7 @@
 5. cstEYREPercentRentReporting - Synchronous - To Map Fiscal Month and Year
 
 6. cstEYREPercentRentReporting - Synchronous - MAG - Calculate YTD Liability and Payment Amount Due	
+
+7. New Sync WF 1
+
+8. New Sync WF 2
