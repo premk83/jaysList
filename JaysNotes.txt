@@ -1,0 +1,8 @@
+Gross Rent - Single payment - Landlord takes care of other expenses
+Net - Gross + Tax
+NetNet = Gross + Tax + Insurance
+NetNetNet = Net + Tax + Maintenence
+
+Modified Gross is a combination of Gross + Net
+
+Percentage Lease :- Tenant Pays Base Rent + a % of profit of business beyond a breakpoint
